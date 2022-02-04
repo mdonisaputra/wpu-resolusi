@@ -1,5 +1,8 @@
 WPU Rencana Belajar
 1. HTML + CSS
 2. PHP
+    - Framework Laravel
 3. Javascript
+    - Framework VueJS
 4. Phyton
+5. Flutter
