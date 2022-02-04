@@ -2,11 +2,12 @@ WPU Rencana Belajar
 1. HTML + CSS
 2. PHP Frameworks
    - Laravel
+   - Yii
    - CodeIgniter
+   - Zend
 3. Javascript Frameworks
    - VueJS
-   - AngularJS
-   - ExpressJS
+   - React
 4. Phyton
-5. Dart
-6. Data Science
+5. Flutter
+6. Big Data
