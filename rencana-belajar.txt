@@ -1,6 +1,7 @@
 WPU Rencana Belajar
 1. HTML + CSS
 2. PHP Frameworks
+   - Laravel
    - Yii
    - CodeIgniter
    - Zend
